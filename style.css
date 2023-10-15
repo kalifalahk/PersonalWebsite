@@ -57,6 +57,13 @@ section {
     margin: 20px;
 }
 
+p {
+
+     font-style: italic;
+     color:rgb(14, 20, 210);
+     margin-bottom: 20px;
+}
+
 /* Style the footer */
 footer {
     background-color: rgb(14, 20, 210);
